@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Patrick! I have a passion for workplace safety, my father and I were both injured on the river and that sparked a desire to improve safety through accessibility. I want to create products that are easy to use and will reduce accidents in the workplace.
+
+You can find me on [Linkedin](https://www.linkedin.com/in/patrick-millet-536110197/)
+
 <!--
 **Patrickm79/Patrickm79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
